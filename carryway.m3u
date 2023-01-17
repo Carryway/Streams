@@ -35,7 +35,7 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1  tvg-name="Bein Sports Eng 1 SD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 1 SD
 http://bandookk.xyz:8000/Geniptv/persian_share/23571
 
-#EXTINF:-1  tvg-name="Bein Sports Eng 1 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 11 HD
+#EXTINF:-1  tvg-name="Bein Sports Eng 1 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 1 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/23572
 
 #EXTINF:-1  tvg-name="Bein Sports Eng 1 FHD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 1 FHD
@@ -62,10 +62,10 @@ http://bandookk.xyz:8000/Geniptv/persian_share/23579
 #EXTINF:-1  tvg-name="BT Sport 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 1
 http://bandookk.xyz:8000/Geniptv/persian_share/7225
 
-#EXTINF:-1  tvg-name="BT Sport 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-3-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 2
+#EXTINF:-1  tvg-name="BT Sport 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-2-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 2
 http://bandookk.xyz:8000/Geniptv/persian_share/7226
 
-#EXTINF:-1  tvg-name="BT Sport 3" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-3-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 3
+#EXTINF:-1  tvg-name="BT Sport 3" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-europe.png" group-title="TV SPORTS" :http-referrer="",BT Sport 3
 http://bandookk.xyz:8000/Geniptv/persian_share/7227
 
 #EXTINF:-1  tvg-name="BT Sport ESPN" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport ESPN
