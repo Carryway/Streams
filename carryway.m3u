@@ -32,6 +32,96 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1  tvg-name="SPOTV 2" tvg-id="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" group-title="TV SPORTS" :http-referrer="",SPOTV 2
 https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1  tvg-name="Bein Sports Eng 1 SD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 1 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/23571
+
+#EXTINF:-1  tvg-name="Bein Sports Eng 1 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 11 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/23572
+
+#EXTINF:-1  tvg-name="Bein Sports Eng 1 FHD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 1 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/23573
+
+#EXTINF:-1  tvg-name="Bein Sports Eng 2 SD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-12-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 2 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/23574
+
+#EXTINF:-1  tvg-name="Bein Sports Eng 2 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-12-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 2 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/23575
+
+#EXTINF:-1  tvg-name="Bein Sports Eng 2 FHD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-12-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 2 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/23576
+
+#EXTINF:-1  tvg-name="Bein Sports Eng 3 SD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-13-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 3 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/23577
+
+#EXTINF:-1  tvg-name="Bein Sports Eng 3 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-13-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 3 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/23578
+
+#EXTINF:-1  tvg-name="Bein Sports Eng 3 FHD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-13-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 3 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/23579
+
+#EXTINF:-1  tvg-name="BT Sport 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 1
+http://bandookk.xyz:8000/Geniptv/persian_share/7225
+
+#EXTINF:-1  tvg-name="BT Sport 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-3-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 2
+http://bandookk.xyz:8000/Geniptv/persian_share/7226
+
+#EXTINF:-1  tvg-name="BT Sport 3" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-3-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 3
+http://bandookk.xyz:8000/Geniptv/persian_share/7227
+
+#EXTINF:-1  tvg-name="BT Sport ESPN" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport ESPN
+http://bandookk.xyz:8000/Geniptv/persian_share/7228
+
+#EXTINF:-1  tvg-name="Sky Sport F1" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152412" group-title="TV SPORTS" :http-referrer="",Sky Sport F1
+http://bandookk.xyz:8000/Geniptv/persian_share/32119
+
+#EXTINF:-1  tvg-name="Sky Sport Football" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png" group-title="TV SPORTS" :http-referrer="",Sky Sport Football
+http://bandookk.xyz:8000/Geniptv/persian_share/7221
+
+#EXTINF:-1  tvg-name="Sky Sport Main Event" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-main-event.png" group-title="TV SPORTS" :http-referrer="",Sky Sport Maint Event
+http://bandookk.xyz:8000/Geniptv/persian_share/7218
+
+#EXTINF:-1  tvg-name="Sky Sport PL" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-premier-league.png" group-title="TV SPORTS" :http-referrer="",Sky Sport PL
+http://bandookk.xyz:8000/Geniptv/persian_share/7220
+
+#EXTINF:-1  tvg-name="SS Premier League" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-premier-league.png" group-title="TV SPORTS" :http-referrer="",SS Premier League
+http://bandookk.xyz:8000/Geniptv/persian_share/29429
+
+#EXTINF:-1  tvg-name="SS Football" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-football.png" group-title="TV SPORTS" :http-referrer="",SS Football
+http://bandookk.xyz:8000/Geniptv/persian_share/29430
+
+#EXTINF:-1  tvg-name="SS La Liga" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-laliga.png" group-title="TV SPORTS" :http-referrer="",SS La Liga
+http://bandookk.xyz:8000/Geniptv/persian_share/31816
+
+#EXTINF:-1  tvg-name="SS Variety 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-1.png" group-title="TV SPORTS" :http-referrer="",SS Variety 1
+http://bandookk.xyz:8000/Geniptv/persian_share/29425
+
+#EXTINF:-1  tvg-name="SS Variety 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-2.png" group-title="TV SPORTS" :http-referrer="",SS Variety 2
+http://bandookk.xyz:8000/Geniptv/persian_share/29426
+
+#EXTINF:-1  tvg-name="SS Variety 3" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-3.png" group-title="TV SPORTS" :http-referrer="",SS Variety 3
+http://bandookk.xyz:8000/Geniptv/persian_share/29427
+
+#EXTINF:-1  tvg-name="SS Variety 4" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-4.png" group-title="TV SPORTS" :http-referrer="",SS Variety 4
+http://bandookk.xyz:8000/Geniptv/persian_share/29428
+
+#EXTINF:-1  tvg-name="Fox Sports 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-usa.png" group-title="TV SPORTS" :http-referrer="",Fox Sports 1
+http://bandookk.xyz:8000/Geniptv/persian_share/31488
+
+#EXTINF:-1  tvg-name="Fox Sports 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-2-usa.png" group-title="TV SPORTS" :http-referrer="",Fox Sports 2
+http://bandookk.xyz:8000/Geniptv/persian_share/31482
+
+#EXTINF:-1  tvg-name="Fox Sports 506" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-506-australia.jpg" group-title="TV SPORTS" :http-referrer="",Fox Sports 506
+http://bandookk.xyz:8000/Geniptv/persian_share/7182
+
+#EXTINF:-1  tvg-name="ESPN" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn.png" group-title="TV SPORTS" :http-referrer="",ESPN
+http://bandookk.xyz:8000/Geniptv/persian_share/31458
+
+#EXTINF:-1  tvg-name="ESPN 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-2.gif" group-title="TV SPORTS" :http-referrer="",ESPN 2
+http://bandookk.xyz:8000/Geniptv/persian_share/31455
+
+#EXTINF:-1  tvg-name="USA Network" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/usa-network.png" group-title="TV SPORTS" :http-referrer="",USA Network
+http://bandookk.xyz:8000/Geniptv/persian_share/31613
+
 ======== TV NASIONAL ========
 
 #EXTINF:-1  tvg-name="# # INFO UPDATE" tvg-id="" tvg-logo="https://i.imgur.com/pM7FFIw.jpg" group-title="TV NASIONAL" :http-referrer="",# # INFO UPDATE
