@@ -84,13 +84,16 @@ http://bandookk.xyz:8000/Geniptv/persian_share/7218
 http://bandookk.xyz:8000/Geniptv/persian_share/7220
 
 #EXTINF:-1  tvg-name="SS Premier League" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-premier-league.png" group-title="TV SPORTS" :http-referrer="",SS Premier League
-http://bandookk.xyz:8000/Geniptv/persian_share/29429
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/11642.m3u8
 
 #EXTINF:-1  tvg-name="SS Football" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-football.png" group-title="TV SPORTS" :http-referrer="",SS Football
 http://bandookk.xyz:8000/Geniptv/persian_share/29430
 
 #EXTINF:-1  tvg-name="SS La Liga" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-laliga.png" group-title="TV SPORTS" :http-referrer="",SS La Liga
 http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/194358.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="TV SPORTS",ZA: SuperSport Motorsport
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/11638.m3u8
 
 #EXTINF:-1  tvg-name="SS Variety 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-1.png" group-title="TV SPORTS" :http-referrer="",SS Variety 1
 http://bandookk.xyz:8000/Geniptv/persian_share/29425
