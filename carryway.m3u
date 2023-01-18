@@ -90,7 +90,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/29429
 http://bandookk.xyz:8000/Geniptv/persian_share/29430
 
 #EXTINF:-1  tvg-name="SS La Liga" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-laliga.png" group-title="TV SPORTS" :http-referrer="",SS La Liga
-http://bandookk.xyz:8000/Geniptv/persian_share/31816
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/194358.m3u8
 
 #EXTINF:-1  tvg-name="SS Variety 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-1.png" group-title="TV SPORTS" :http-referrer="",SS Variety 1
 http://bandookk.xyz:8000/Geniptv/persian_share/29425
@@ -118,6 +118,63 @@ http://bandookk.xyz:8000/Geniptv/persian_share/31458
 
 #EXTINF:-1  tvg-name="ESPN 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-2.gif" group-title="TV SPORTS" :http-referrer="",ESPN 2
 http://bandookk.xyz:8000/Geniptv/persian_share/31455
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="TV SPORTS",MY: Astro SuperSport 1
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146068.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="TV SPORTS",MY: Astro SuperSport 2
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/157556.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="TV SPORTS",MY: Astro SuperSport 3
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/157557.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="TV SPORTS",MY: Astro SuperSport 4
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/157558.m3u8
+
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA: NBA TV Canada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="TV SPORTS",CA: NBA TV Canada
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/13222.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet 360" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/beb0a4cdd5804ef138370bf719125239.png" group-title="TV SPORTS",CA: SportsNet 360
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/3377.m3u8
+
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA: SportsNet East" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/aeac71628001dc07258d9d9c1aef7be6.png" group-title="TV SPORTS",CA: SportsNet East
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/1720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet New York" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5dc076ddf2c73e4a3fcf4a39421cc03c.png" group-title="TV SPORTS",CA: SportsNet New York
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/6436.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet One" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a53f84431bcf29de008a0011c8ff5c64.png" group-title="TV SPORTS",CA: SportsNet One
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/3378.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet Ontario" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/d5d179c85d81ff4368e207b20b156949.png" group-title="TV SPORTS",CA: SportsNet Ontario
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/280602.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet Pacific" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/aeee15d2afc2bba13a84567ba9f03425.png" group-title="TV SPORTS",CA: SportsNet Pacific
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/5511.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet Spectrum" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/9a702b832ab58c8b3d882502e16383ad.png" group-title="TV SPORTS",CA: SportsNet Spectrum
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/295024.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet West" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/15ad4601d4cc0b4b218defbfce4ee505.png" group-title="TV SPORTS",CA: SportsNet West
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/72575.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/dfe331d195b301431fef3cd4c927ae87.png" group-title="TV SPORTS",CA: SportsNet World
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/280568.m3u8
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="TV SPORTS",CA: TSN 1
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/770.m3u8
+
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4b4253c607eecccc31f0ada0140f70c8.png" group-title="TV SPORTS",CA: TSN 2
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/771.m3u8
+
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/524a82ac877c54d21ea7d3132de37ed7.png" group-title="TV SPORTS",CA: TSN 3
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/772.m3u8
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d8a2cfab425dd04c3cf3d811ed48b338.png" group-title="TV SPORTS",CA: TSN 4
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/773.m3u8
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png" group-title="TV SPORTS",CA: TSN 5
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/774.m3u8
 
 #EXTINF:-1  tvg-name="USA Network" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/usa-network.png" group-title="TV SPORTS" :http-referrer="",USA Network
 http://bandookk.xyz:8000/Geniptv/persian_share/31613
