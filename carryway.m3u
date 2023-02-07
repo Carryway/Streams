@@ -62,96 +62,122 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6687.m3u8
 
 #EXTINF:-1  tvg-name="Bein Sports Eng 1 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="https://player.licenses4.me/",Bein Sports Eng 1 HD
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium61/index.m3u8
 
 #EXTINF:-1  tvg-name="Bein Sports Eng 2 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-12-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 2 HD
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium90/index.m3u8
 
 #EXTINF:-1  tvg-name="Bein Sports Eng 3 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-13-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 3 HD
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium46/index.m3u8
 
 #EXTINF:-1  tvg-name="BT Sport 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium31/index.m3u8
 
 #EXTINF:-1  tvg-name="BT Sport 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-2-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium32/index.m3u8
 
 #EXTINF:-1  tvg-name="BT Sport 3" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-europe.png" group-title="TV SPORTS" :http-referrer="",BT Sport 3
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium33/index.m3u8
 
 #EXTINF:-1  tvg-name="BT Sport ESPN" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-uk.png" group-title="TV SPORTS" :http-referrer="",BT Sport ESPN
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium34/index.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sport F1" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152412" group-title="TV SPORTS" :http-referrer="",Sky Sport F1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium60/index.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sport Football" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png" group-title="TV SPORTS" :http-referrer="",Sky Sport Football
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium35/index.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sport Main Event" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-main-event.png" group-title="TV SPORTS" :http-referrer="",Sky Sport Maint Event
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium38/index.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sport PL" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-premier-league.png" group-title="TV SPORTS" :http-referrer="",Sky Sport PL
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium60/index.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sport Mix" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-mix.png" group-title="TV SPORTS" :http-referrer="",Sky Sport Mix
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium449/index.m3u8
 
 #EXTINF:-1  tvg-name="SS Premier League" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-premier-league.png" group-title="TV SPORTS" :http-referrer="",SS Premier League
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium414/index.m3u8
 
 #EXTINF:-1  tvg-name="SS Football" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-football.png" group-title="TV SPORTS" :http-referrer="",SS Football
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium56/index.m3u8
 
 #EXTINF:-1  tvg-name="SS La Liga" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-laliga.png" group-title="TV SPORTS" :http-referrer="",SS La Liga
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium415/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="TV SPORTS",ZA: SuperSport Motorsport
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium424/index.m3u8
 
 #EXTINF:-1  tvg-name="SS Variety 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-1.png" group-title="TV SPORTS" :http-referrer="",SS Variety 1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium416/index.m3u8
 
 #EXTINF:-1  tvg-name="SS Variety 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-2.png" group-title="TV SPORTS" :http-referrer="",SS Variety 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium417/index.m3u8
 
 #EXTINF:-1  tvg-name="SS Variety 3" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-3.png" group-title="TV SPORTS" :http-referrer="",SS Variety 3
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium418/index.m3u8
 
 #EXTINF:-1  tvg-name="SS Variety 4" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-variety-4.png" group-title="TV SPORTS" :http-referrer="",SS Variety 4
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium419/index.m3u8
 
 #EXTINF:-1  tvg-name="Fox Sports 1" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-1-usa.png" group-title="TV SPORTS" :http-referrer="",Fox Sports 1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium39/index.m3u8
 
 #EXTINF:-1  tvg-name="Fox Sports 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-2-usa.png" group-title="TV SPORTS" :http-referrer="",Fox Sports 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium40/index.m3u8
 
 #EXTINF:-1  tvg-name="Fox Sports 506" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-sports-506-australia.jpg" group-title="TV SPORTS" :http-referrer="",Fox Sports 506
 http://bandookk.xyz:8000/Geniptv/persian_share/7182
 
 #EXTINF:-1  tvg-name="ESPN" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn.png" group-title="TV SPORTS" :http-referrer="",ESPN
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium44/index.m3u8
 
 #EXTINF:-1  tvg-name="ESPN 2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-2.gif" group-title="TV SPORTS" :http-referrer="",ESPN 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium45/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro.png" group-title="TV SPORTS",MY: Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium123/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro-supersport-2.png" group-title="TV SPORTS",MY: Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro-supersport-3.png" group-title="TV SPORTS",MY: Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium125/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro-supersport-4.png" group-title="TV SPORTS",MY: Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium126/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro-supersport-5.png" group-title="TV SPORTS",MY: Astro SuperSport 5
-https://webudi.onlinewebtv.lol/lb/premium43/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro-supersport-5.png" group-title="TV SPORTS",MY: Astro SuperSport 5
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TH: True Premier HD1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/true-premier-football-hd-1.png" group-title="TV SPORTS",TH: True Premier HD1
@@ -200,24 +226,31 @@ http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/72575.m3u8
 http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/280568.m3u8
 
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="TV SPORTS",CA: TSN 1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium111/index.m3u8
 
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4b4253c607eecccc31f0ada0140f70c8.png" group-title="TV SPORTS",CA: TSN 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium112/index.m3u8
 
 #EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/524a82ac877c54d21ea7d3132de37ed7.png" group-title="TV SPORTS",CA: TSN 3
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium113/index.m3u8
 
 #EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d8a2cfab425dd04c3cf3d811ed48b338.png" group-title="TV SPORTS",CA: TSN 4
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium114/index.m3u8
 
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png" group-title="TV SPORTS",CA: TSN 5
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium115/index.m3u8
 
 #EXTINF:-1  tvg-name="USA Network" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/usa-network.png" group-title="TV SPORTS" :http-referrer="",USA Network
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium343/index.m3u8
 
 #EXTINF:-1  tvg-name="TNT HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tnt-usa.png" group-title="TV SPORTS" :http-referrer="",TNT HD
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.onlinewebtv.lol/lb/premium87/index.m3u8
 
 ======== TV NASIONAL ========
