@@ -64,6 +64,10 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6687.m3u8
 #EXTINF:-1  tvg-name="Bein Sports Eng 1 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 1 HD
 https://webudi.onlinewebtv.lol/lb/premium61/index.m3u8
 
+#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Gol Mundail 1 (1080p) {Temporary}
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.onlinewebtv.lol/lb/premium61/index.m3u8
+
 #EXTINF:-1  tvg-name="Bein Sports Eng 2 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-12-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 2 HD
 https://webudi.onlinewebtv.lol/lb/premium90/index.m3u8
 
