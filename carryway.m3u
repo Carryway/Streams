@@ -61,12 +61,12 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 #EXTINF:-1  tvg-name="ChampionsTV 3" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/XBsHziWPlX77CeWCZlKLmvjF_dQ=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="TV SPORTS" :http-referrer="",ChampionsTV 3
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6687.m3u8
 
-#EXTINF:-1  tvg-name="Bein Sports Eng 1 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 1 HD
-#EXTVLCOPT:http-referrer=https://eplayer.click/
+#EXTINF:-1  tvg-name="Bein Sports Eng 1 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-11-hd.png" group-title="TV SPORTS" :http-referrer="https://widevine.licenses4.me/&User-agent=REDLINECLIENT",Bein Sports Eng 1 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 https://webudit.onlinewebtv.lol/lb/premium61/index.m3u8
 
-#EXTINF:-1  tvg-name="Bein Sports Eng 2 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-12-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 2 HD
-#EXTVLCOPT:http-referrer=https://eplayer.click/
+#EXTINF:-1  tvg-name="Bein Sports Eng 2 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-12-hd.png" group-title="TV SPORTS" :http-referrer="https://widevine.licenses4.me/&User-agent=REDLINECLIENT",Bein Sports Eng 2 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 https://webudit.onlinewebtv.lol/lb/premium90/index.m3u8
 
 #EXTINF:-1  tvg-name="Bein Sports Eng 3 HD" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-13-hd.png" group-title="TV SPORTS" :http-referrer="",Bein Sports Eng 3 HD
